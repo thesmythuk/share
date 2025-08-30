@@ -2,234 +2,340 @@
     "items": [
 		{
 			"id": "586839",
+			"type": "item",
 			"title": "Sky Sports+ Event 1",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-177.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-177.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586840",
+			"type": "item",
 			"title": "Sky Sports+ Event 2",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-178.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-178.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586841",
+			"type": "item",
 			"title": "Sky Sports+ Event 3",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-179.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-179.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586842",
+			"type": "item",
 			"title": "Sky Sports+ Event 4",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-180.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-180.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586843",
+			"type": "item",
 			"title": "Sky Sports+ Event 5",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-181.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-181.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586844",
+			"type": "item",
 			"title": "Sky Sports+ Event 6",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-182.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-182.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586845",
+			"type": "item",
 			"title": "Sky Sports+ Event 7",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-183.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-183.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586846",
+			"type": "item",
 			"title": "Sky Sports+ Event 8",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-184.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-184.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586847",
+			"type": "item",
 			"title": "Sky Sports+ Event 9",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-185.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-185.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586848",
+			"type": "item",
 			"title": "Sky Sports+ Event 10",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-186.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-186.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586849",
+			"type": "item",
 			"title": "Sky Sports+ Event 11",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-187.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-187.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586850",
+			"type": "item",
 			"title": "Sky Sports+ Event 12",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-188.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-188.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586851",
+			"type": "item",
 			"title": "Sky Sports+ Event 13",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-189.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-189.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586852",
+			"type": "item",
 			"title": "Sky Sports+ Event 14",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-190.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-190.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586853",
+			"type": "item",
 			"title": "Sky Sports+ Event 15",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-191.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-191.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586854",
+			"type": "item",
 			"title": "Sky Sports+ Event 16",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-192.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-192.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586855",
+			"type": "item",
 			"title": "Sky Sports+ Event 17",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-193.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-193.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586856",
+			"type": "item",
 			"title": "Sky Sports+ Event 18",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-194.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-194.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586857",
+			"type": "item",
 			"title": "Sky Sports+ Event 19",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-195.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-195.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586858",
+			"type": "item",
 			"title": "Sky Sports+ Event 20",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-196.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-196.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586859",
+			"type": "item",
 			"title": "Sky Sports+ Event 21",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-197.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-197.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586860",
+			"type": "item",
 			"title": "Sky Sports+ Event 22",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-198.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-198.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586861",
+			"type": "item",
 			"title": "Sky Sports+ Event 23",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-199.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-199.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586862",
+			"type": "item",
 			"title": "Sky Sports+ Event 24",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-200.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-200.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586863",
+			"type": "item",
 			"title": "Sky Sports+ Event 25",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-201.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-201.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586864",
+			"type": "item",
 			"title": "Sky Sports+ Event 26",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-202.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-202.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586865",
+			"type": "item",
 			"title": "Sky Sports+ Event 27",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-203.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-203.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586866",
+			"type": "item",
 			"title": "Sky Sports+ Event 28",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-204.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-204.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586867",
+			"type": "item",
 			"title": "Sky Sports+ Event 29",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-205.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-205.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586868",
+			"type": "item",
 			"title": "Sky Sports+ Event 30",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-206.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-206.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586869",
+			"type": "item",
 			"title": "Sky Sports+ Event 31",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-207.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-207.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586870",
+			"type": "item",
 			"title": "Sky Sports+ Event 32",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-208.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-208.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586871",
+			"type": "item",
 			"title": "Sky Sports+ Event 33",
-			"stream": "plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.top/stream/stream-209.php",
+			"sportjetextractors": [
+				"https://thedaddy.top/stream/stream-209.php"
+			],
 			"query": "event"
 		},
 		{
 			"id": "586872",
+			"type": "item",
 			"title": "Sky Sports+ Event 34",
 			"stream": "http://kingdong.uk:80/live/Johnny.mcconnell@yahoo.co.uk/zzzC9kJFtTyx/586872.m3u8?&Connection=keep-alive|X-Forwarded-For=24.37.42.200"
 		},
 		{
 			"id": "586873",
+			"type": "item",
 			"title": "Sky Sports+ Event 35",
 			"stream": "http://kingdong.uk:80/live/Johnny.mcconnell@yahoo.co.uk/zzzC9kJFtTyx/586873.m3u8?&Connection=keep-alive|X-Forwarded-For=24.37.42.200"
 		},
 		{
 			"id": "586874",
+			"type": "item",
 			"title": "Sky Sports+ Event 36",
 			"stream": "http://kingdong.uk:80/live/Johnny.mcconnell@yahoo.co.uk/zzzC9kJFtTyx/586874.m3u8?&Connection=keep-alive|X-Forwarded-For=24.37.42.200"
 		},
 		{
 			"id": "586875",
+			"type": "item",
 			"title": "Sky Sports+ Event 37",
 			"stream": "http://kingdong.uk:80/live/Johnny.mcconnell@yahoo.co.uk/zzzC9kJFtTyx/586875.m3u8?&Connection=keep-alive|X-Forwarded-For=24.37.42.200"
 		},
 		{
 			"id": "586876",
+			"type": "item",
 			"title": "Sky Sports+ Event 38",
 			"stream": "http://kingdong.uk:80/live/Johnny.mcconnell@yahoo.co.uk/zzzC9kJFtTyx/586876.m3u8?&Connection=keep-alive|X-Forwarded-For=24.37.42.200"
 		},
 		{
 			"id": "586877",
+			"type": "item",
 			"title": "Sky Sports+ Event 39",
 			"stream": "http://kingdong.uk:80/live/Johnny.mcconnell@yahoo.co.uk/zzzC9kJFtTyx/586877.m3u8?&Connection=keep-alive|X-Forwarded-For=24.37.42.200"
 		},
 		{
 			"id": "586878",
+			"type": "item",
 			"title": "Sky Sports+ Event 40",
 			"stream": "http://kingdong.uk:80/live/Johnny.mcconnell@yahoo.co.uk/zzzC9kJFtTyx/586878.m3u8?&Connection=keep-alive|X-Forwarded-For=24.37.42.200"
 		}
